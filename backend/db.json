@@ -1,0 +1,19 @@
+{
+  "coins": 10,
+  "xp": 120,
+  "streak": 3,
+  "lastDay": null,
+  "completed": {},
+  "history": {},
+  "purchases": [
+    {
+      "id": 4,
+      "name": "Chips paketi",
+      "emoji": "🍟",
+      "cost": 20,
+      "category": "food",
+      "boughtAt": "2026-05-28T11:18:01.341Z"
+    }
+  ],
+  "createdAt": ""
+}
